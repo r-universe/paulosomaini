@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "xtreg2way"]
+	path = xtreg2way
+	url = https://github.com/paulosomaini/xtreg2way
+	shallow = true
+	registered = true
